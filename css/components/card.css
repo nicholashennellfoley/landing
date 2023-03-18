@@ -1,0 +1,19 @@
+.card {
+  box-shadow: 0 0 0.2rem rgba(0, 0, 0, 0.2);
+  text-align: center;
+  padding: 1rem 2rem;
+  max-width: 10rem;
+}
+
+.card img {
+  width: 90%;
+  height: 10rem;
+}
+
+.card h2 {
+  font-size: 1rem;
+}
+
+.card p {
+  color: rgb(133, 133, 133);
+}
